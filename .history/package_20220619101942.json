@@ -1,11 +1,11 @@
 {
   "private": true,
-  "name": "majortank",
+  "name": "Majortank",
   "description": "Tankiso Thebe Portfolio Website",
   "version": "0.2.11",
   "author": "majortank <tankiso@majortank.space>",
   "license": "0BSD",
-  "starter-name": "Majortank-portfolio",
+  "starter-name": "gatsby-starter-portfolio-cara",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
